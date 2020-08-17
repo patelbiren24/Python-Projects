@@ -1,0 +1,5 @@
+Hi
+
+This is a sample email using the python smpt library.
+
+Thanks
